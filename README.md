@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-The **Text Analyzer** is a practical, Tkinter-based graphical desktop application developed as part of the **BiStartX** Python learning curriculum. The app accepts any block of text typed or pasted into a multi-line input field and, upon clicking **Analyze**, instantly computes four statistics:
+The **Text Analyzer** is a practical, Tkinter-based graphical desktop application developed as part of Python learning curriculum. The app accepts any block of text typed or pasted into a multi-line input field and, upon clicking **Analyze**, instantly computes four statistics:
 
 - **Word Count** — total words found using regex token extraction
 - **Sentence Count** — total sentences detected by `.` `!` `?` punctuation matching
@@ -49,7 +49,7 @@ This project reinforces essential Python string manipulation, regex patterns, an
 - **🔡 Character Count (Excluding Spaces)**: Counts all characters after stripping whitespace via `text.replace(" ", "")` for a clean character count.
 - **📊 Top 5 Character Frequency**: Uses Python's `collections.Counter` to build a full frequency map of all non-space characters (lowercased), then returns the 5 most common characters with their counts.
 - **⚠️ Empty Input Validation**: If the input field is empty, a descriptive inline message is shown directly in the result label — no dialogs needed.
-- **🖤 Dark-Themed UI**: Consistent slate-blue dark theme (`#2C3E50`) matching the BiStartX suite:
+- **🖤 Dark-Themed UI**: Consistent slate-blue dark theme (`#2C3E50`) matching the suite:
   - 🟢 **Analyze** button — Green (`#27AE60`)
   - 🔴 **Exit** button — Red (`#E74C3C`)
 - **📋 Multi-Line Input**: A `tk.Text` widget (10 lines tall, 50 characters wide) allows pasting long paragraphs of text for comprehensive analysis.
@@ -155,7 +155,7 @@ The window opens immediately. Paste or type any text, then click **Analyze**!
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Week 3)
+## 🧠 Learning Objectives 
 
 > ✅ **Objective**: Understand how Python handles strings, text parsing, and frequency analysis using built-in modules and the standard library.
 
