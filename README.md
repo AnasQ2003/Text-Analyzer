@@ -179,7 +179,7 @@ The window opens immediately. Paste or type any text, then click **Analyze**!
 ```
 MIT License
 
-Copyright (c) Text Analyzer---2026 AnasQ2003
+Copyright (c) Text Analyzer --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -212,7 +212,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 Made with 💧 and a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
